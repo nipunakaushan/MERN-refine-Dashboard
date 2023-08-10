@@ -1,6 +1,0 @@
-{
-    "dependencies": {
-        "@refinedev/supabase": "^5.0.0",
-        "nookies": "^2.5.2"
-    }
-}
